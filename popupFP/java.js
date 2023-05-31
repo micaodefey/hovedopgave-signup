@@ -2,7 +2,7 @@
 var modal = document.getElementById("signup-popup");
 
 // Get the button that opens the modal - Henter knappen fra HTML filen.
-var btn = document.getElementById("signup-box_btn");
+var btn = document.getElementById("signup-box__btn");
 
 // Get the <span> element that closes the modal. Henter ''close'' fra HTML filen.
 var span = document.getElementsByClassName("close")[0];
